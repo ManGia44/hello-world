@@ -8,5 +8,5 @@ int main()
     int b;
     cin >> a >> b;
     cout << a+b;
-    return 0;
+    return 1;
 }
